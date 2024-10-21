@@ -12,8 +12,8 @@ A note about System Design Steps and System Implementation Steps.
 
 系统实现通常包含两个步骤：
 ```
-1. 制作和检验元素。
-2. 组装和检验系统。
+1. 制作和测试元素。
+2. 组装和测试系统。
 ```
 
 ### Credits

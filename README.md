@@ -1,5 +1,5 @@
 # Readme
-A note about System Design Steps and System Implementation Steps.
+A note about system design steps and system implementation steps.
 
 ### System Design Steps and System Implementation Steps
 

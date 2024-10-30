@@ -6,7 +6,7 @@ A note about system design steps and system implementation steps.
 系统设计通常包含三个步骤：
 ```
 1. 制定系统接口。
-2. 列出元素清单。
+2. 制定系统结构，并列出元素清单。
 3. 制定元素接口。
 ```
 

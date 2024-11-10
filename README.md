@@ -12,7 +12,7 @@ A note about system design steps and system implementation steps.
 
 系统实现通常包含两个步骤：
 ```
-1. 制作和测试元素。
+1. 获取和测试元素。
 2. 组装和测试系统。
 ```
 

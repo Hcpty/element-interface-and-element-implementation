@@ -2,7 +2,7 @@
 A note about Interfaces and Elements.
 
 ### Interfaces and Elements
-接口是元素的设计，元素是接口的实现。
+先设计接口，后实现元素。
 
 ### Credits
 - Design Patterns: Elements of Reusable Object-Oriented Software, First Edition - Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides

@@ -1,7 +1,7 @@
 # Readme
-A note about Element Interface and Element Implementation.
+A note about Element Interfaces and Element Implementations.
 
-### Element Interface and Element Implementation
+### Element Interfaces and Element Implementations
 先输出元素的接口，然后输出元素的实现。
 
 ### Credits

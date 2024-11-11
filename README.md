@@ -1,8 +1,8 @@
 # Readme
-A note about Interface and Element.
+A note about Element Interface and Element Implementation.
 
-### Interface and Element
-先设计接口，后实现元素。
+### Element Interface and Element Implementation
+先输出元素的接口，然后输出元素的实现。
 
 ### Credits
 - Design Patterns: Elements of Reusable Object-Oriented Software, First Edition - Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides

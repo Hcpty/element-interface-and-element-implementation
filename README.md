@@ -1,7 +1,7 @@
 # Readme
-A note about Interfaces and Elements.
+A note about Interface and Element.
 
-### Interfaces and Elements
+### Interface and Element
 先设计接口，后实现元素。
 
 ### Credits
